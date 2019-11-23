@@ -10,6 +10,6 @@ let selectingDrivers=[returnFirstTwoDrivers,returnLastTwoDrivers];
   
 function createFareMultiplier(arg){
   return function(){
-    return arg*5
+    return arg*7
   }
 }
