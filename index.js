@@ -17,3 +17,6 @@ function createFareMultiplier(arg){
 const fareDoubler= function (arg){
   return arg* 2
 }
+const fareDoubler= function (arg){
+  return arg* 2
+}
