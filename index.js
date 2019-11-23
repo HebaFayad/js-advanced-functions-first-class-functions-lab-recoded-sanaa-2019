@@ -20,4 +20,6 @@ const fareDoubler= function (arg){
 const fareTripler= function (arg){
   return arg* 3
 }
-
+function selectDifferentDrivers(arr,driver){
+  return
+}
