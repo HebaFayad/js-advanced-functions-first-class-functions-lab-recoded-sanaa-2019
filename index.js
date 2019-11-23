@@ -13,3 +13,5 @@ function createFareMultiplier(arg){
     return arg*5
   }
 }
+
+const doubler= function 
